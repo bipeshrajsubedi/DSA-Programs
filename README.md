@@ -1,1 +1,1 @@
-This repo. contains basic data structures program with simple implemeantation.
+This repo. contains basic data structures program (in C and Python) with simple implementation.
